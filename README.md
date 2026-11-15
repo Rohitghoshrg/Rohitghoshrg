@@ -39,6 +39,7 @@ I'm a CSE student who likes turning ideas into working web experiences — from 
 | [My-Portfolio](https://rohitghoshrg.github.io/My-Portfolio/) | My personal portfolio website — live | HTML, CSS, JavaScript |
 | [MySpace](./MySpace) | Private personal hub — self-chat, notes, collections and Google Drive files — [Live](https://myspace-check.vercel.app) | Next.js, React, TypeScript, Payload CMS |
 | [Rohit-rg](./Rohit-rg) | **RG Daily Planner** — smart daily task management with reminders, snooze, recurring tasks, auto-expiration, calendar planner, and productivity analytics | React 19, TypeScript, Vite, Tailwind CSS, Express |
+| [ShopNest](./shopnest) | Daraz-style online shop for Bangladesh — 450 products, cart, checkout, order tracking, admin dashboard | HTML, CSS, JavaScript, Firebase Auth, Firestore |
 | **Beyond Sentiment** — Final Year Design Project (CSE 460) | Detecting emotional distress and support-seeking behaviour in Bangla social media using multi-task learning | Multi-task learning, Bangla social media data |
 
 ## 📬 Contact
