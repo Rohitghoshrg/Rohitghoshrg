@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Ghosh 👋
 
-**Computer Science & Engineering student (Final Semester) — Southeast University, Dhaka | Aspiring Web Developer | Executive, Influencer Campaign Management at Exito Agency**
+**Computer Science & Engineering student (Final Semester) — Southeast University, Dhaka | Aspiring Web Developer | Intern, Influencer Campaign Management at Exito Agency**
 
 I'm a CSE student who likes turning ideas into working web experiences — from responsive front-ends to databases and full-stack apps. I care about clean code, practical solutions, and shipping things people actually use.
 
@@ -28,7 +28,7 @@ I'm a CSE student who likes turning ideas into working web experiences — from 
 
 ## 💼 Work
 
-**Executive, Influencer Campaign Management — Exito Agency** ([exitobd.com](https://exitobd.com))
+**Intern, Influencer Campaign Management — Exito Agency** ([exitobd.com](https://exitobd.com)) — Nov 2026 – Present
 - Managing influencer campaigns for brands, including the SESA Pro Shine Hair Serum campaign — identifying and coordinating macro and mass creators in lifestyle, beauty, and hair-care.
 
 ## 🚀 Featured Projects
